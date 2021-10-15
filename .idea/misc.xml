@@ -5,7 +5,7 @@
       <map>
         <entry key="..\:/Users/quang/AndroidStudioProjects/AndroidAppFall2021/app/src/main/res/drawable/start_saving_button.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/quang/AndroidStudioProjects/AndroidAppFall2021/app/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
-        <entry key="..\:/Users/quang/AndroidStudioProjects/AndroidAppFall2021/app/src/main/res/layout/menu_page.xml" value="0.176" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/AndroidAppFall2021/app/src/main/res/layout/menu_page.xml" value="0.536" />
         <entry key="..\:/Users/quang/AndroidStudioProjects/AndroidAppFall2021/app/src/main/res/layout/menu_screen.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/quang/AndroidStudioProjects/AndroidAppFall2021/app/src/main/res/layout/start_saving_button.xml" value="0.24010416666666667" />
       </map>
@@ -16,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
